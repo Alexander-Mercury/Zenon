@@ -1,0 +1,9 @@
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\obj\Debug\Лабаторная по Зенону.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\obj\Debug\Лабаторная_по_Зенону.Form1.resources
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\obj\Debug\Лабаторная_по_Зенону.Properties.Resources.resources
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\obj\Debug\Лабаторная по Зенону.csproj.GenerateResource.cache
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\bin\Debug\Лабаторная по Зенону.exe.config
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\bin\Debug\Лабаторная по Зенону.exe
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\bin\Debug\Лабаторная по Зенону.pdb
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\obj\Debug\Лабаторная по Зенону.exe
+C:\Users\Анатолий\source\repos\Лабаторная по Зенону\Лабаторная по Зенону\obj\Debug\Лабаторная по Зенону.pdb
